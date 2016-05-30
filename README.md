@@ -6,4 +6,9 @@
 * 创建首页：参考此页面(https://help.github.com/articles/creating-pages-with-the-automatic-generator/) 对项目进行设置 ， 新建的首页效果可以通过在线编辑器预览，或是保存后直接访问网址 chenzheng128.github.io。
 * 创建Wiki页：在项目的wiki标签页上建立wiki页面后，链接到首页即可。
 
+其他目录
+- [markdown][11]: 存放markdown相关
+
 BTW：这样的方法很容易，但是首页+Wiki页的样式和内容有限。如果需要更好的样式和内容的话可以用Jekyll生成静态页面，然后用上传到这个项目空间即可。
+
+[11]:./tree/master/markdown
