@@ -7,7 +7,7 @@
 * 创建Wiki页：在项目的wiki标签页上建立wiki页面后，链接到首页即可。
 
 其他目录与文件
-- [markdown][11]: 存放markdown相关
+- [markdown][11]: 存放 Atom 编辑 markdown 相关信息
 - video.html: h5视频例子
 
 BTW：这样的方法很容易，但是首页+Wiki页的样式和内容有限。如果需要更好的样式和内容的话可以用Jekyll生成静态页面，然后用上传到这个项目空间即可。
